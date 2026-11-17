@@ -1,0 +1,21 @@
+UroR+ - Próstata: Zonas de McNeal | Paquete de publicación web
+
+Este paquete contiene una copia exacta del HTML definitivo, renombrada como index.html.
+LA VERSIÓN MAESTRA ORIGINAL NO FUE MODIFICADA.
+
+Recomendación: GitHub Pages a través de GitHub Desktop.
+1. Extrae este ZIP en tu computadora.
+2. Abre GitHub Desktop. File > Add local repository, elige esta carpeta.
+   Si GitHub Desktop ofrece crear el repositorio Git, selecciona Create a repository here.
+3. Confirma los cambios con Commit to main y pulsa Publish repository (Public).
+4. En GitHub, entra al repositorio y ve a Settings > Pages.
+5. Selecciona Deploy from a branch, main, /(root), Save.
+6. Copia la URL publicada, que tendrá el formato https://USUARIO.github.io/NOMBRE-REPOSITORIO/.
+7. Comprueba la URL desde tu teléfono y comparte el enlace en Instagram y WhatsApp.
+
+NOTA: index.html mide aproximadamente 56 MB. El navegador web de GitHub NO permite
+subir archivos de ese tamaño directamente; usa GitHub Desktop o Git desde la computadora.
+En Netlify Drop los archivos individuales >10 MB suelen provocar fallos de carga.
+
+Comparación SHA256 del HTML maestro y este index.html:
+adb27622ad39fc3f5f8f64152a13c81a430a382f227e28f3994567ea3f00d77e
